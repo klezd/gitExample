@@ -1,7 +1,6 @@
 Quynh Dao
 Duc Le
-<<<<<<< HEAD
+
 Lisa
-=======
+
 Bob
->>>>>>> master
